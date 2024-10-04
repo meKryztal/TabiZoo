@@ -1,3 +1,9 @@
+<div align="right">
+  <a href="https://github.com/meKryztal">
+    <img src="https://github.com/user-attachments/assets/c381e8c0-e56a-4134-b333-4ec0dffab514" alt="donate" width="150">
+  </a>
+</div>
+
 # Автофарм TabiZoo
 ![photo_2024-07-18_21-45-38](https://github.com/user-attachments/assets/3909d25e-22ab-40b5-87fe-d81b7b889d26)
 
